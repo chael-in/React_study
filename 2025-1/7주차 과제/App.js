@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import MemoInput from './7주차 과제/MemoComponents/MemoInput';
-import MemoList from './7주차 과제/MemoComponents/MemoList';
+import MemoInput from './MemoComponents/MemoInput';
+import MemoList from './MemoComponents/MemoList';
 
 let nextId = 1;
 
